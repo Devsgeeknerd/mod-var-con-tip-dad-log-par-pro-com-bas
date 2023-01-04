@@ -3,7 +3,7 @@
 
 ***Conteúdo do Módulo:***
 
-* [ ] [Introdução.](https://github.com/Devsgeeknerd/cla-int-var-con-tip-dad-log-par-pro-com-bas) &#128679;
+* [x] [Introdução.](https://github.com/Devsgeeknerd/cla-int-var-con-tip-dad-log-par-pro-com-bas)
 * [ ] [Variáveis.](https://github.com/Devsgeeknerd/cla-var-var-con-tip-dad-log-par-pro-com-bas) &#128679;
 * [ ] [Constantes.](https://github.com/Devsgeeknerd/cla-con-var-con-tip-dad-log-par-pro-com-bas) &#128679;
 * [ ] [Diferença Entre Variáveis e Constantes.](https://github.com/Devsgeeknerd/cla-dif-ent-var-con-var-con-tip-dad-log-par-pro-com-bas) &#128679;
