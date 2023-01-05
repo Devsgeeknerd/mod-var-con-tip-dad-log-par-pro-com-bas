@@ -7,7 +7,7 @@
 * [x] [Variáveis.](https://github.com/Devsgeeknerd/cla-var-var-con-tip-dad-log-par-pro-com-bas)
 * [x] [Constantes.](https://github.com/Devsgeeknerd/cla-con-var-con-tip-dad-log-par-pro-com-bas)
 * [x] [Diferença Entre Variáveis e Constantes.](https://github.com/Devsgeeknerd/cla-dif-ent-var-con-var-con-tip-dad-log-par-pro-com-bas)
-* [ ] [Tipos de Dados.](https://github.com/Devsgeeknerd/cla-tip-dad-var-con-tip-dad-log-par-pro-com-bas) &#128679;
+* [x] [Tipos de Dados.](https://github.com/Devsgeeknerd/cla-tip-dad-var-con-tip-dad-log-par-pro-com-bas)
 * [ ] [Comandos de Atribuição.](https://github.com/Devsgeeknerd/cla-com-atr-var-con-tip-dad-log-par-pro-com-bas) &#128679;
 * [ ] [Entrada e Saída de Dados.](https://github.com/Devsgeeknerd/cla-ent-sai-dad-var-con-tip-dad-log-par-pro-com-bas) &#128679;
 * [ ] [Conhecendo o Scratch.](https://github.com/Devsgeeknerd/cla-con-scr-var-con-tip-dad-log-par-pro-com-bas) &#128679;
