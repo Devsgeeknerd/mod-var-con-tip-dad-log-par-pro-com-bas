@@ -8,7 +8,7 @@
 * [x] [Constantes.](https://github.com/Devsgeeknerd/cla-con-var-con-tip-dad-log-par-pro-com-bas)
 * [x] [Diferença Entre Variáveis e Constantes.](https://github.com/Devsgeeknerd/cla-dif-ent-var-con-var-con-tip-dad-log-par-pro-com-bas)
 * [x] [Tipos de Dados.](https://github.com/Devsgeeknerd/cla-tip-dad-var-con-tip-dad-log-par-pro-com-bas)
-* [ ] [Comandos de Atribuição.](https://github.com/Devsgeeknerd/cla-com-atr-var-con-tip-dad-log-par-pro-com-bas) &#128679;
+* [x] [Comandos de Atribuição.](https://github.com/Devsgeeknerd/cla-com-atr-var-con-tip-dad-log-par-pro-com-bas)
 * [ ] [Entrada e Saída de Dados.](https://github.com/Devsgeeknerd/cla-ent-sai-dad-var-con-tip-dad-log-par-pro-com-bas) &#128679;
 * [ ] [Conhecendo o Scratch.](https://github.com/Devsgeeknerd/cla-con-scr-var-con-tip-dad-log-par-pro-com-bas) &#128679;
 * [ ] [Emitindo Mensagens, Lendo Informações do Usuário e Utilizando Variáveis.](https://github.com/Devsgeeknerd/cla-emt-men-len-inf-usu-uti-var-var-con-tip-dad-log-par-pro-com-bas) &#128679;
