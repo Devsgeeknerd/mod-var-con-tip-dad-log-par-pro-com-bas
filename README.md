@@ -11,7 +11,7 @@
 * [x] [Comandos de Atribuição.](https://github.com/Devsgeeknerd/cla-com-atr-var-con-tip-dad-log-par-pro-com-bas)
 * [x] [Entrada e Saída de Dados.](https://github.com/Devsgeeknerd/cla-ent-sai-dad-var-con-tip-dad-log-par-pro-com-bas)
 * [x] [Conhecendo o Scratch.](https://github.com/Devsgeeknerd/cla-con-scr-var-con-tip-dad-log-par-pro-com-bas)
-* [ ] [Emitindo Mensagens, Lendo Informações do Usuário e Utilizando Variáveis.](https://github.com/Devsgeeknerd/cla-emi-men-len-inf-usu-uti-var-var-con-tip-dad-log-par-pro-com-bas) &#128679;
+* [x] [Emitindo Mensagens, Lendo Informações do Usuário e Utilizando Variáveis.](https://github.com/Devsgeeknerd/cla-emi-men-len-inf-usu-uti-var-var-con-tip-dad-log-par-pro-com-bas)
 * [ ] [Manipulando Variáveis.](https://github.com/Devsgeeknerd/cla-man-var-var-con-tip-dad-log-par-pro-com-bas) &#128679;
 
 <!-- Information -->
